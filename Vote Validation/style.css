@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://media.istockphoto.com/id/1277965612/photo/conceptual-image-of-a-person-voting-during-elections.jpg?s=612x612&w=0&k=20&c=lNfkt2SMrYFPEl6CQPxWACuHEMQs-WArSkGhsCs6EP4=);
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0l8Kj2hjSfD_NQ9BgwLBOAe6Cfy7C1THMtg&s);
+}
+
+.box1 {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+input, select {
+    padding: 5px;
+    margin: 10px;
+    border-radius: 4px;
+    border: 1px solid #3527ff;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 15px;
+    font-size: 1.2em;
+}
+
+option{
+    color: blue;
+}
